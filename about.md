@@ -3,7 +3,6 @@ layout: page
 title: About
 permalink: /about/
 ---
-<p>
 
 Specialties
 
@@ -46,15 +45,13 @@ Specialties
     ❷ Security::   WEP,WPA-Personal, WPA2-Enterprise, 802.1x 
 
 ✅Network Monitor and Mgmt:: 
-    ❶ PRTG, Zabbix, NTOP, Librenms, Cacti, BGPmon⭐
-    ❷ RANCID, Unimus, rConfig, AirControl, UNMS, UNiFi Controller, UNiFi NVR⭐
+  ❶ PRTG, Zabbix, NTOP, Librenms, Cacti, BGPmon⭐
+  ❷ RANCID, Unimus, rConfig, AirControl, UNMS, UNiFi Controller, UNiFi NVR⭐
 
 ✅Packaged Services:: Squid, Bind9, Postfix, DoveCot, FreeRadius, LAMP
 
 ✅Misc:: Torrent Transmission server, HotSpot, Captive Portal, WireShark, PeeringDB, RIPE NCC/ AFRINIC  resources registration, management and RPKI validation
 
-
-</p>
 
 Email: <a href="mailto:{{site.email}}?Subject=From Blog Site:">{{site.email}}</a>
 
