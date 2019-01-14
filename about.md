@@ -7,11 +7,11 @@ permalink: /about/
 Specialties
 
 ✅Hardware and vendors::
-    ❶ Wireless:: Mimosa, Cambium, Ubiquiti [AirMAX, AirFiber], Siklu, Radwin, Waveip, 
-     Alvarion, BaiCell, Altai, Rukus, Aironet
-    ❷ Network:: Cisco, Mikrotik, Juniper, Netonix, Telco Systems, FiberStore , Ubiquiti 
-       [EdgeMax], DELL, HP
-    ❸ Security:: Sophos [UTM/XG], Fortinet, SonicWall, WatchGuard.
+<li>❶ Wireless:: Mimosa, Cambium, Ubiquiti [AirMAX, AirFiber], Siklu, Radwin, Waveip, 
+     Alvarion, BaiCell, Altai, Rukus, Aironet </li>
+<li>❷ Network:: Cisco, Mikrotik, Juniper, Netonix, Telco Systems, FiberStore , Ubiquiti 
+       [EdgeMax], DELL, HP </li>
+<li>❸ Security:: Sophos [UTM/XG], Fortinet, SonicWall, WatchGuard. </li>
 
 ✅Software OS:: [“ONIE: Ipinfusion OcNOS”, “Others: Bird, Quagga, exaBGP, Vyatta, Vyos”]
 
