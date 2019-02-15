@@ -44,6 +44,7 @@ urls:
       url: /feed.xml
 # url: "http://localhost:4000"
 url: "https://traderose.github.io"
+url: "https://issam.io"
 baseurl: ""
 paginate: 20
 per_page: 20
